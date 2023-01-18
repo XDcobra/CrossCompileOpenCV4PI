@@ -127,8 +127,7 @@ cd ~
 ```
 To make our life easier, I’ve also prepared a simple pkg-config settings file, named opencv.pc. Get it with:
 ```
-git clone url_TODO opencv_cpp_compile_settings
-cd opencv_cpp_compile_settings
+curl https://raw.githubusercontent.com/XDcobra/CrossCompileOpenCV4PI/main/opencv.pc?token=GHSAT0AAAAAAB5FYDBTBEAAF6H6ICKNUGNGY6IIOUA --output opencv.pc
 cp opencv.pc ~
 cd ~
 ```
