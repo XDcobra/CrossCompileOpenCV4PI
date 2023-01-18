@@ -154,7 +154,7 @@ apt install libjpeg-dev libpng-dev
 apt install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 apt-get install libxvidcore-dev libx264-dev
 ```
-Uncompress and move the library to the /opt folder of your RPi:
+Uncompress and move the library to the /opt folder of your Rasperri pi:
 ```
 tar xfv opencv-4.1.0-armhf.tar.bz2
 mv opencv-4.1.0 /opt
