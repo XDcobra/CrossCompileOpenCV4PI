@@ -179,3 +179,7 @@ HURRAY! You should be able to use OpenCV 4.7.0 now in Python and C++. In case th
 ```
 printenv LD_LIBRARY_PATH
 ```
+
+## Thank you
+The guide is based on an old guide, that won't work anymore. But a lot of steps are used, from it, so thank you:
+https://solarianprogrammer.com/2018/12/18/cross-compile-opencv-raspberry-pi-raspbian/
